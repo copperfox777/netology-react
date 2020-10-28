@@ -1,0 +1,24 @@
+.blue {
+  color:#0a7afb;
+}
+.block {
+  align-self: stretch;
+  margin:0 20px;
+  padding:10px 0;
+  border-bottom: 1px solid grey;
+}
+.name {
+  font-weight: bold;
+}
+.amount {
+  font-size:0.8rem;
+  color:grey;
+}
+.circle {
+  float:right;
+  margin-top:3px;
+  width:30px;
+  height: 30px;
+  border-radius: 15px;
+  background-color:#f3f4f7;
+}
