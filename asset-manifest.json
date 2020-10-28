@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/netology-react/static/css/main.2b84f2b0.chunk.css",
+    "main.js": "/netology-react/static/js/main.dcdd157c.chunk.js",
+    "main.js.map": "/netology-react/static/js/main.dcdd157c.chunk.js.map",
+    "runtime-main.js": "/netology-react/static/js/runtime-main.1a1e7beb.js",
+    "runtime-main.js.map": "/netology-react/static/js/runtime-main.1a1e7beb.js.map",
+    "static/js/2.15bc63ad.chunk.js": "/netology-react/static/js/2.15bc63ad.chunk.js",
+    "static/js/2.15bc63ad.chunk.js.map": "/netology-react/static/js/2.15bc63ad.chunk.js.map",
+    "static/js/3.1419c00e.chunk.js": "/netology-react/static/js/3.1419c00e.chunk.js",
+    "static/js/3.1419c00e.chunk.js.map": "/netology-react/static/js/3.1419c00e.chunk.js.map",
+    "index.html": "/netology-react/index.html",
+    "static/css/main.2b84f2b0.chunk.css.map": "/netology-react/static/css/main.2b84f2b0.chunk.css.map",
+    "static/js/2.15bc63ad.chunk.js.LICENSE.txt": "/netology-react/static/js/2.15bc63ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a1e7beb.js",
+    "static/js/2.15bc63ad.chunk.js",
+    "static/css/main.2b84f2b0.chunk.css",
+    "static/js/main.dcdd157c.chunk.js"
+  ]
+}
